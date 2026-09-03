@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "migrate-nunit-to-xunit",
+  "description": "Convert .NET test projects from NUnit 3.x/4.x to xUnit v3, preserving runner, target framework, and test parity.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Bharat Hirani",
+    "url": "https://github.com/modernizedcode"
+  },
+  "homepage": "https://github.com/modernizedcode/claude-skills",
+  "repository": "https://github.com/modernizedcode/claude-skills",
+  "license": "MIT",
+  "keywords": ["dotnet", "csharp", "nunit", "xunit", "testing", "migration"]
+}

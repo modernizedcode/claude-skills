@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "dotnet-test-migrations",
+  "description": "Skills for migrating .NET codebases onto current tooling and team standards.",
+  "owner": {
+    "name": "YOUR NAME",
+    "url": "https://github.com/modernizedcode"
+  },
+  "plugins": [
+    {
+      "name": "migrate-nunit-to-xunit",
+      "source": "./plugins/migrate-nunit-to-xunit",
+      "description": "Convert .NET test projects from NUnit 3.x/4.x to xUnit v3, preserving runner, target framework, and test parity.",
+      "category": "development",
+      "keywords": ["dotnet", "csharp", "nunit", "xunit", "testing", "migration"],
+      "license": "MIT"
+    }
+  ]
+}
