@@ -3,7 +3,7 @@
   "name": "dotnet-test-migrations",
   "description": "Skills for migrating .NET codebases onto current tooling and team standards.",
   "owner": {
-    "name": "YOUR NAME",
+    "name": "Bharat Hirani",
     "url": "https://github.com/modernizedcode"
   },
   "plugins": [
